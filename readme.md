@@ -1,5 +1,5 @@
 
-# Nodejs - Microservice, Serverless AWS (Lambda)
+# Python Flask - Microservice
 This is an example of a micro service api.
 It can already be used on AWS as a service without a server (Lambda).
 
